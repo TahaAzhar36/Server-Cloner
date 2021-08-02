@@ -24,7 +24,7 @@
 ```cs
 /*
   *- Install node.js
-  *- open requirements.txt and paste one by one each of the lines ex "npm i fs"
+  *- open requirements.txt and paste one by one each of the lines in a cmd. ex: "npm i fs"
   *- after doing that , open start.bat , hf!
 */
 ```
