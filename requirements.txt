@@ -1,0 +1,8 @@
+npm i discord.js-selfbot-v11
+npm i ms
+npm i console-title
+npm i readline
+npm i center align
+npm i colors
+npm i fs
+npm i rl
