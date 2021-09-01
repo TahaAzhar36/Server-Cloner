@@ -33,7 +33,7 @@ client.on("warn", (e) => {
 ╚█████╔╝██║░░░░░███████╗██║░╚███║  ██████╔╝╚█████╔╝╚██████╔╝██║░░██║╚█████╔╝███████╗
 ░╚════╝░╚═╝░░░░░╚══════╝╚═╝░░╚══╝  ╚═════╝░░╚════╝░░╚═════╝░╚═╝░░╚═╝░╚════╝░╚══════╝`.red,112));
 	console.log(" ");
-	console.log(center(` https://discord.gg/qVZQQ6WUp3 | Made by icebear#1337, CheatingZone on top!!`.white, 112));
+	console.log(center(` https://discord.gg/qVZQQ6WUp3 | Made by icebear#1130, CheatingZone on top!!`.white, 112));
 
 
 console.log("");
