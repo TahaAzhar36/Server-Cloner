@@ -6,3 +6,7 @@ npm i center align
 npm i colors
 npm i fs
 npm i rl
+npm i center-align
+npm i chalk
+
+^^ paste these in to a cmd , one by one.
